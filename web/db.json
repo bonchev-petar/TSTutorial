@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Petar Bonchev",
-      "age": 37
+      "name": "New Record",
+      "age": 0
     },
     {
       "name": "New Record",
@@ -16,19 +16,14 @@
       "id": 3
     },
     {
-      "name": "New Record",
-      "age": 0,
+      "name": "Boiko Borisov",
+      "age": 57,
       "id": 4
     },
     {
-      "name": "New Record",
-      "age": 0,
+      "name": "Ivan Garelov",
+      "age": 73,
       "id": 5
-    },
-    {
-      "name": "New Record",
-      "age": 0,
-      "id": 6
     }
   ]
 }
