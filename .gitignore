@@ -1,3 +1,4 @@
 node_modules
 tutorial
 .cache
+.DS_Store
